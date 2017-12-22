@@ -9,6 +9,7 @@ Source:		%{name}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
+Requires:	nagios-plugins-http
 Requires:	python
 Requires:	python-argparse
 
