@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Kyriakos Gkinis, kyrginis@admin.grnet.gr
+
 import argparse
 import sys
 import os
